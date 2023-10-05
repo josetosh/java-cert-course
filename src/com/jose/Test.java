@@ -9,13 +9,9 @@ package com.jose;
  *
  * @author jgnjeru
  */
-public class JavaCertCourse {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class Test {
     
+    static{
+        System.out.println("");
+    }
 }
